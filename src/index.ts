@@ -17,10 +17,6 @@ const main = async () => {
   const centralWidget = new QWidget();
   centralWidget.setObjectName("myroot");
 
-  const label = new QLabel();
-  label.setObjectName("mylabel");
-  label.setText("WIFI PASSWORDS");
-
   const passwordLayout = new QGridLayout();
   passwordLayout.setObjectName("mytable");
   passwordLayout.setSpacing(0);
