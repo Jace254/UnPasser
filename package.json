@@ -1,8 +1,8 @@
 {
-  "name": "nodegui-starter",
+  "name": "un-passer",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Atul R <atulanand94@gmail.com>",
+  "author": "Joash A <joashagesa@yahoo.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
